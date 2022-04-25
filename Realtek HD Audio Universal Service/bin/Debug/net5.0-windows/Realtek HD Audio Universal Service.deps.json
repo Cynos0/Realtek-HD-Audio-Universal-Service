@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Realtek HD Audio Universal Service/1.0.0": {
+        "runtime": {
+          "Realtek HD Audio Universal Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Realtek HD Audio Universal Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
